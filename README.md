@@ -1,5 +1,3 @@
-# test git
+# test2 git
 
-git을 test하는 곳입니다
-
-test
+jik에서 commit
