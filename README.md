@@ -1,5 +1,3 @@
-# test git
+# test1
 
-git을 test하는 곳입니다
-
-test
+Main에서 commit
