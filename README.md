@@ -1,3 +1,4 @@
-# test1
+# test2 git
 
-Main에서 commit
+jik에서 commit
+
